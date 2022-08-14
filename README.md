@@ -1,2 +1,13 @@
 # testware
-Testware Manager
+
+> testware manager
+
+## development
+
+stack:
+
+- reactjs
+- firebase
+
+deploy:
+
